@@ -1,0 +1,14 @@
+{
+  "name": "punchout2go/dummypackage",
+  "description": "Dummy package to preserve vendor namespace",
+  "require": {
+  },
+  "suggest": {
+  },
+  "type": "dummy-package",
+  "version": "1.0.0",
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ]
+}
